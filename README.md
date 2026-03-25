@@ -1,10 +1,12 @@
 # Customer Shopping Trends 
 
-# Project Overview
+## Project Overview
+
 ## Project Title: Customer Shopping Trends Analysis
 ## Level: Beginner
 ## Database: shopping_trends_db
 This project is designed to demonstrate SQL skills and techniques typically used by data analysts to explore, clean, and analyze retail sales data. The project involves setting up a retail sales database, performing exploratory data analysis (EDA), and answering specific business question through SQL queries. 
+
 ## Objectives
 1.	Set up a retail sales database: Create and populate a retail sales database with the provided sales data.
 2.	Data Cleaning: Identify and remove any records with missing or null values.
@@ -18,7 +20,7 @@ This project is designed to demonstrate SQL skills and techniques typically used
 •	Database Creation: The project starts by creating a database named shopping_trends_db.
 •	Table Creation: A table named shopping_trends is created to store the sales data. The table structure includes the below listed columns: 
 
-## Dataset Glossary
+## Dataset Glossary (Column-wise) 
 •	Customer ID - Unique identifier for each customer
 •	Age - Age of the customer
 •	Gender - Gender of the customer (Male/Female)
