@@ -13,10 +13,10 @@ What should the store stock and when in order to:
 * SQL (MySQL) → Data cleaning, transformation, and analysis
 * Power BI → Data visualization & interactive dashboard
 
-## Dataset - The dataset used in this project is sourced from Kaggle. You can find it HERE. 
+## Dataset 
+The dataset used in this project is sourced from Kaggle. You can find it HERE. 
 
 The dataset contains transactional and customer-level data, including:
-
 * Customer demographics (age, gender)
 * Product details (item, category, size, color)
 * Purchase behavior (frequency, previous purchases)
