@@ -14,7 +14,7 @@ What should the store stock and when in order to:
 * Power BI → Data visualization & interactive dashboard
 
 ## Dataset 
-The dataset used in this project is sourced from Kaggle. You can find it [here]([https://](https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-dataset)).<br/> 
+The dataset used in this project is sourced from Kaggle. You can find it [here]((https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-dataset)).<br/> 
 
 The dataset contains transactional and customer-level data, including:
 * Customer demographics (age, gender)
