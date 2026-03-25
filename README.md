@@ -1,5 +1,4 @@
 # Customer Shopping Trends Analysis
-This project is designed to demonstrate SQL skills and techniques typically used by data analysts to explore, clean, and analyze retail sales data. The project involves setting up a retail sales database, performing exploratory data analysis (EDA), answering specific business question through SQL queries and building an interactive dashboard in Power BI that highlights key patterns and trends. 
 
 ## Customer Shopping Trends
 This project analyzes customer shopping behavior using SQL and Power BI to uncover actionable insights that drive better inventory and sales decisions.
