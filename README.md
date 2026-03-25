@@ -1,11 +1,30 @@
-# Customer Shopping Trends 
+# Customer Shopping Trends Analysis
+This project is designed to demonstrate SQL skills and techniques typically used by data analysts to explore, clean, and analyze retail sales data. The project involves setting up a retail sales database, performing exploratory data analysis (EDA), answering specific business question through SQL queries and building an interactive dashboard in Power BI that highlights key patterns and trends. 
 
-## Project Overview
+## Customer Shopping Trends
+This project analyzes customer shopping behavior using SQL and Power BI to uncover actionable insights that drive better inventory and sales decisions.
 
-## Project Title: Customer Shopping Trends Analysis
-## Level: Beginner
-## Database: shopping_trends_db
-This project is designed to demonstrate SQL skills and techniques typically used by data analysts to explore, clean, and analyze retail sales data. The project involves setting up a retail sales database, performing exploratory data analysis (EDA), and answering specific business question through SQL queries. 
+## Business Objective
+What should the store stock and when in order to:
+* Maximize sales
+* Reduce lost sales (stockouts)
+* Minimize dead stock (unsold inventory)
+  
+## Tools & Technologies
+* SQL (MySQL) → Data cleaning, transformation, and analysis
+* Power BI → Data visualization & interactive dashboard
+
+## Dataset
+The dataset used in this project is sourced from Kaggle. You can find it HERE. 
+
+The dataset contains transactional and customer-level data, including:
+
+* Customer demographics (age, gender)
+* Product details (item, category, size, color)
+* Purchase behavior (frequency, previous purchases)
+* Financials (purchase amount)
+* Context (season, location, shipping, discounts)
+* Customer feedback (review ratings)
 
 ## Objectives
 1.	Set up a retail sales database: Create and populate a retail sales database with the provided sales data.
@@ -15,27 +34,3 @@ This project is designed to demonstrate SQL skills and techniques typically used
 5.	Visualization & Insights (Power BI): Build an interactive dashboard that highlights key patterns and trends, enabling stakeholders to make data-driven decisions.
 6. Report and Presentation: Write a clear project report summarizing your key findings and business recommendations.
 
-## Project Structure
-1. Database Setup
-*	Database Creation: The project starts by creating a database named shopping_trends_db.
-*	Table Creation: A table named shopping_trends is created to store the sales data. The table structure includes the below listed columns: 
-
-## Dataset Glossary 
-*	Customer ID - Unique identifier for each customer
-*	Age - Age of the customer
-*	Gender - Gender of the customer (Male/Female)
-*	Item Purchased - The item purchased by the customer
-*	Category - Category of the item purchased
-*	Purchase Amount (USD) - The amount of the purchase in USD
-*	Location - Location where the purchase was made
-*	Size - Size of the purchased item
-*	Color - Color of the purchased item
-*	Season - Season during which the purchase was made
-*	Review Rating - Rating given by the customer for the purchased item
-*	Subscription Status - Indicates if the customer has a subscription (Yes/No)
-*	Shipping Type - Type of shipping chosen by the customer
-*	Discount Applied - Indicates if a discount was applied to the purchase (Yes/No)
-*	Promo Code Used - Indicates if a promo code was used for the purchase (Yes/No)
-*	Previous Purchases - The total count of transactions concluded by the customer at the store, excluding the ongoing transaction
-*	Payment Method - Customer's most preferred payment method
-*	Frequency of Purchases - Frequency at which the customer makes purchases (e.g., Weekly, Fortnightly, Monthly)
