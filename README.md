@@ -20,7 +20,7 @@ This project is designed to demonstrate SQL skills and techniques typically used
 •	Database Creation: The project starts by creating a database named shopping_trends_db.
 •	Table Creation: A table named shopping_trends is created to store the sales data. The table structure includes the below listed columns: 
 
-## Dataset Glossary (Column-wise) 
+## Dataset Glossary 
 *	Customer ID - Unique identifier for each customer
 *	Age - Age of the customer
 *	Gender - Gender of the customer (Male/Female)
