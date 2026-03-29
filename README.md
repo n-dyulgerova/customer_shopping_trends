@@ -29,7 +29,6 @@ The dataset contains transactional and customer-level data, including:
 * Power BI - Data visualization & interactive dashboard
 
 ## Methodology
-
 The analysis was conducted in several structured steps to transform raw transactional data into actionable business insights:
 
 1. Data Preparation & Cleaning
@@ -56,3 +55,19 @@ The analysis was conducted in several structured steps to transform raw transact
 8.Data Visualization (Power BI)
  * Built an interactive dashboard to present key insights
  * Enabled filtering by customer segment, category, season, and location for dynamic analysis
+
+##  Dashboard Overview
+Pages (Executive, Customer, Product, Seasonality, etc.)
+What each page shows (1–2 lines each)
+
+## Key Insights 
+ * Loyal customers generate the highest revenue
+ * Certain categories show high repeat purchase rates
+ * Demand varies significantly by season
+   
+ ## Business Recommendations 
+ * Stock high repeat categories more aggressively
+ * Align inventory with seasonal demand
+ * Reduce exposure to low-performing items
+
+ ## Screenshots (VERY IMPORTANT)
