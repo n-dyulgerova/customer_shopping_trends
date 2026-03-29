@@ -13,19 +13,6 @@ Using SQL for data exploration and Power BI for visualization, the project uncov
 * Seasonality
 * Location-based trends
 
-## Dataset Description
-The dataset contains transactional retail data with the following attributes:
-
-* Customer demographics (age, gender, location)
-* Product details (item, category, size, color)
-* Purchase behavior (amount, frequency, previous purchases)
-* Seasonal and promotional data
-* Customer experience (review rating)
-
-## Tools & Technologies
-* SQL (MySQL) - Data cleaning, transformation, and analysis
-* Power BI - Data visualization & interactive dashboard
-
 ## Dataset 
 The dataset used in this project is sourced from Kaggle. You can find it [here](https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-dataset).<br/> 
 
@@ -36,6 +23,10 @@ The dataset contains transactional and customer-level data, including:
 * Financials (purchase amount)
 * Context (season, location, shipping, discounts)
 * Customer feedback (review ratings)
+
+## Tools & Technologies
+* SQL (MySQL) - Data cleaning, transformation, and analysis
+* Power BI - Data visualization & interactive dashboard
 
 ## Objectives
 1.	Set up a retail sales database: Create and populate a retail sales database with the provided sales data.
