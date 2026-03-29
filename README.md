@@ -7,21 +7,20 @@ This project analyzes customer shopping behavior to answer the key business ques
 
 Using SQL for data exploration and Power BI for visualization, the project uncovers patterns in:
 
-*Customer segments
-*Product demand
-*Repeat purchases
-*Seasonality
-*Location-based trends
+* Customer segments
+* Product demand
+* Repeat purchases
+* Seasonality
+* Location-based trends
 
 ## Dataset Description
-
 The dataset contains transactional retail data with the following attributes:
 
-*Customer demographics (age, gender, location)
-*Product details (item, category, size, color)
-*Purchase behavior (amount, frequency, previous purchases)
-*Seasonal and promotional data
-*Customer experience (review rating)
+* Customer demographics (age, gender, location)
+* Product details (item, category, size, color)
+* Purchase behavior (amount, frequency, previous purchases)
+* Seasonal and promotional data
+* Customer experience (review rating)
 
 ## Tools & Technologies
 * SQL (MySQL) - Data cleaning, transformation, and analysis
