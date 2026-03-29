@@ -10,8 +10,8 @@ What should the store stock and when in order to:
 * Minimize dead stock (unsold inventory)
   
 ## Tools & Technologies
-* SQL (MySQL) → Data cleaning, transformation, and analysis
-* Power BI → Data visualization & interactive dashboard
+* SQL (MySQL) - Data cleaning, transformation, and analysis
+* Power BI - Data visualization & interactive dashboard
 
 ## Dataset 
 The dataset used in this project is sourced from Kaggle. You can find it [here](https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-dataset).<br/> 
