@@ -43,16 +43,13 @@ The analysis was conducted in several structured steps to transform raw transact
 4. Product & Demand Analysis
  * Identified top-performing products within each category
  * Evaluated product performance using purchase frequency, average order value, and customer ratings
-5. Repeat Purchase Analysis
- * Calculated repeat purchase rates by category to identify stable, high-demand product groups
- * Used this to distinguish between reliable inventory and high-risk (low-repeat) items
-6. Seasonality & Trend Analysis
+5. Seasonality & Trend Analysis
  * Analyzed purchasing patterns across seasons to identify demand fluctuations
  * Determined top products and preferences (e.g., colors) for each season
-7.Geographical & Demographic Insights
+6.Geographical & Demographic Insights
  * Examined customer distribution and behavior across locations
  * Analyzed differences in purchasing patterns by gender and age groups
-8.Data Visualization (Power BI)
+7.Data Visualization (Power BI)
  * Built an interactive dashboard to present key insights
  * Enabled filtering by customer segment, category, season, and location for dynamic analysis
 
@@ -61,13 +58,19 @@ Pages (Executive, Customer, Product, Seasonality, etc.)
 What each page shows (1–2 lines each)
 
 ## Key Insights 
- * Loyal customers generate the highest revenue
- * Certain categories show high repeat purchase rates
- * Demand varies significantly by season
+ * The business is heavily dependent on Clothing
+ * Demand is concentrated in a few core products
+ * Business is male-dominated
+ * Core customers are working-age adults
+ * Revenue depends heavily on customer retention
+ * Demand is relatively stable, not extremely seasonal
    
  ## Business Recommendations 
- * Stock high repeat categories more aggressively
- * Align inventory with seasonal demand
- * Reduce exposure to low-performing items
+ * Optimize Inventory Around High-Performing Categories
+ * Focus on Core Products 
+ * Invest in Customer Retention (loyalty programs, personalized discounts, email/CRM campaigns)
+ * Target High-Value Customer Segments (marketing campaigns on working professionals)
+ * Optimize Gender Strategy (prioritize male-focused inventory, expand female product offerings and launch targeted campaigns to grow female segment)
+ * Improve Customer Satisfaction (improve product quality, shipping speed and customer service)
 
  ## Screenshots (VERY IMPORTANT)
