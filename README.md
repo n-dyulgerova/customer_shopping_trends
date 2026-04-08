@@ -32,8 +32,8 @@ The dataset contains transactional and customer-level data, including:
 The analysis was conducted in several structured steps to transform raw transactional data into actionable business insights:
 
 1. Data Preparation & Cleaning
- * Created a relational database in MySQL and imported the dataset
- * Removed records with missing or null values across key fields to ensure data quality and consistency
+ - Created a relational database in MySQL and imported the dataset
+ - Removed records with missing or null values across key fields to ensure data quality and consistency
 2. Exploratory Data Analysis (EDA)
  * Assessed dataset size, unique customers, and available product categories
  * Analyzed overall sales performance, including top categories, most purchased items, and lowest-performing products
