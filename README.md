@@ -1,7 +1,7 @@
 # Customer Shopping Trends Analysis (SQL + Power BI)
 
 ## Project Overview
-This project analyzes customer shopping behavior to answer the key business question:
+This project analyzes customer shopping behavior to answer a key business question:
 
 ## What should the store stock and when in order to maximize sales, reduce lost sales, and minimize dead stock?
 
