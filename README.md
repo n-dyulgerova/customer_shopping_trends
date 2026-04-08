@@ -46,10 +46,10 @@ The analysis was conducted in several structured steps to transform raw transact
 5. Seasonality & Trend Analysis
  * Analyzed purchasing patterns across seasons to identify demand fluctuations
  * Determined top products and preferences (e.g., colors) for each season
-6.Geographical & Demographic Insights
+6. Geographical & Demographic Insights
  * Examined customer distribution and behavior across locations
  * Analyzed differences in purchasing patterns by gender and age groups
-7.Data Visualization (Power BI)
+7. Data Visualization (Power BI)
  * Built an interactive dashboard to present key insights
  * Enabled filtering by customer segment, category, season, and location for dynamic analysis
 
