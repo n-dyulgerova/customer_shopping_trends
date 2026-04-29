@@ -195,13 +195,3 @@ Supports decisions on **where inventory should be prioritized**.
 
 ---
 
-# Final Business Outcome
-
-By using SQL analysis and Power BI dashboards, the store can better determine:
-
-- **What to stock**
-- **Where to stock it**
-- **When to stock it**
-
-This helps maximize sales, reduce lost sales opportunities, and minimize dead stock.
-
