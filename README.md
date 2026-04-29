@@ -21,12 +21,12 @@ This project uses **SQL** and **Power BI** to turn raw transactional shopping da
 
 Using customer purchase history, seasonality, product demand, location trends, and customer loyalty data, the project identifies:
 
-✔ Best-selling products to prioritize  
-✔ Slow-moving products to reduce  
-✔ Seasonal products to stock earlier  
-✔ High-demand locations needing more inventory  
-✔ Loyal customer preferences  
-✔ Revenue opportunities by segment  
+* Best-selling products to prioritize  
+* Slow-moving products to reduce  
+* Seasonal products to stock earlier  
+* High-demand locations needing more inventory  
+* Loyal customer preferences  
+* Revenue opportunities by segment  
 
 ---
 
