@@ -92,7 +92,7 @@ Provides a high-level overview of store performance and inventory health.
 - Top Performing Categories
 - Revenue Trends
 
-![Executive Summary Dashboard](images/page1-executive-summary.png)
+![Executive Summary](Executive Summary.png)
 
 ---
 
