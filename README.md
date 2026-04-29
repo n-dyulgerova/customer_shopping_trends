@@ -107,7 +107,7 @@ Supports decisions on **what products to stock more or reduce**.
 - Ratings vs Orders analysis
 - Dead stock risk indicators
 
-![Product & Inventory Dashboard](images/page2-products.png)
+![Product & Inventory Dashboard](images/product-insights.png)
 
 ---
 
