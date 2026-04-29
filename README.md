@@ -15,7 +15,6 @@ Retail stores often struggle with three major inventory challenges:
 
 This project uses **SQL** and **Power BI** to turn raw transactional shopping data into actionable inventory and sales decisions.
 
----
 
 # Project Objective
 
@@ -28,7 +27,6 @@ Using customer purchase history, seasonality, product demand, location trends, a
 * Loyal customer preferences  
 * Revenue opportunities by segment  
 
----
 
 ## Tools Used
 
@@ -37,7 +35,6 @@ Using customer purchase history, seasonality, product demand, location trends, a
 - **DAX** – KPIs and dynamic measures  
 - **CSV Dataset** – Retail customer shopping data  
 
----
 
 # Dataset Includes
 
@@ -53,7 +50,6 @@ Using customer purchase history, seasonality, product demand, location trends, a
 - Subscription Status  
 - Purchase Frequency  
 
----
 
 ## SQL Workflow
 
@@ -94,7 +90,6 @@ Provides a high-level overview of store performance and inventory health.
 
 ![Executive Summary](images/executive-summary.png)
 
----
 
 ## Product & Inventory Insights Dashboard
 
@@ -109,7 +104,6 @@ Supports decisions on **what products to stock more or reduce**.
 
 ![Product & Inventory Dashboard](images/product-insights.png)
 
----
 
 ## Seasonal Demand Dashboard
 
@@ -122,7 +116,6 @@ Supports decisions on **when products should be stocked**.
 
 ![Seasonal Demand Dashboard](images/seasonality.png)
 
----
 
 ## Location Insights Dashboard
 
@@ -135,8 +128,6 @@ Supports decisions on **where inventory should be prioritized**.
 - Inventory priority recommendations
 
 ![Location Insights Dashboard](images/location-insights_cut.png)
-
----
 
 
 # Key Insights
@@ -159,7 +150,6 @@ Supports decisions on **where inventory should be prioritized**.
 - Some states generate significantly higher sales and require stronger inventory allocation.
 - Lower-rated locations may indicate operational or service issues affecting sales.
 
----
 
 # Business Recommendations
 
@@ -192,6 +182,3 @@ Supports decisions on **where inventory should be prioritized**.
 - Reward loyal customers with targeted offers.
 - Use returning customer behavior to predict future demand.
 - Personalize campaigns by demographic trends.
-
----
-
