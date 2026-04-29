@@ -55,22 +55,17 @@ Using customer purchase history, seasonality, product demand, location trends, a
 
 ---
 
-# SQL Workflow
+## SQL Workflow
 
-## 1.Database Creation
+This project used MySQL to prepare and analyze the dataset before visualization in Power BI.
 
-```sql
-CREATE DATABASE shopping_trends_db;
-USE shopping_trends_db;
-
-## 2.Table Creation
-
-Structured retail transaction table created in MySQL.
-
-## 3.Data Import
+- Created relational database and transaction table
+- Imported raw CSV data
+- Cleaned null / incomplete records
+- Performed exploratory data analysis (EDA)
+- Analyzed product demand, seasonality, customer behavior, and locations
+- Built queries to support inventory recommendations
 
 CSV loaded into database.
 
-## 4️.Data Cleaning
 
-Removed incomplete rows to ensure reliable analysis.
