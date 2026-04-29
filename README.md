@@ -111,6 +111,19 @@ Supports decisions on **what products to stock more or reduce**.
 
 ---
 
+## Seasonal Demand Dashboard
+
+Supports decisions on **when products should be stocked**.
+
+- Top products by season
+- Seasonal category demand
+- Popular colors by season
+- Restock timing recommendations
+
+![Seasonal Demand Dashboard](images/seasonality.png)
+
+---
+
 ## Location Insights Dashboard
 
 Supports decisions on **where inventory should be prioritized**.
@@ -121,35 +134,10 @@ Supports decisions on **where inventory should be prioritized**.
 - Gender mix by state
 - Inventory priority recommendations
 
-![Location Insights Dashboard](images/page3-location.png)
+![Location Insights Dashboard](images/location-insights_cut.png)
 
 ---
 
-## Seasonal Demand Dashboard
-
-Supports decisions on **when products should be stocked**.
-
-- Top products by season
-- Seasonal category demand
-- Popular colors by season
-- Restock timing recommendations
-
-![Seasonal Demand Dashboard](images/page4-seasonality.png)
-
----
-
-## Customer Insights Dashboard
-
-Supports customer-focused inventory and marketing strategy.
-
-- Revenue by gender
-- Spend by age group
-- New vs Returning vs Loyal customers
-- Top products bought by loyal customers
-
-![Customer Insights Dashboard](images/page5-customers.png)
-
----
 
 # Key Insights
 
@@ -170,12 +158,6 @@ Supports customer-focused inventory and marketing strategy.
 - Revenue performance varies across store locations.
 - Some states generate significantly higher sales and require stronger inventory allocation.
 - Lower-rated locations may indicate operational or service issues affecting sales.
-
-## Customer Insights
-
-- Loyal and returning customers contribute a large share of revenue.
-- Purchase preferences differ across age groups and gender segments.
-- Repeat customers can guide long-term stocking priorities.
 
 ---
 
