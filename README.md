@@ -57,8 +57,20 @@ Using customer purchase history, seasonality, product demand, location trends, a
 
 # SQL Workflow
 
-## 1️⃣ Database Creation
+## 1.Database Creation
 
 ```sql
 CREATE DATABASE shopping_trends_db;
 USE shopping_trends_db;
+
+## 2.Table Creation
+
+Structured retail transaction table created in MySQL.
+
+## 3.Data Import
+
+CSV loaded into database.
+
+## 4️.Data Cleaning
+
+Removed incomplete rows to ensure reliable analysis.
