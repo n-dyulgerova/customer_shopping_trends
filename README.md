@@ -11,16 +11,24 @@ Retail stores struggle with three inventory challenges: stocking too little (los
 MySQL (data cleaning, transformation, EDA) · Power BI (dashboards) · DAX (KPIs)
 
 ## Approach
-* Loaded and cleaned raw transactional data in MySQL (nulls, incomplete records)
-* Ran exploratory analysis on product demand, seasonality, location, and customer loyalty
-* Built SQL queries to support inventory recommendations
-* Designed four Power BI dashboards: Executive Summary, Product & Inventory, Seasonal Demand, Location Insights
+* Loaded raw transactional data into MySQL and removed rows with missing values across all key fields
+* Explored order volume, ratings, and revenue by category, item, gender, age group, and location
+* Used window functions (ROW_NUMBER() OVER PARTITION BY) to rank top items within each category and season
+* Segmented customers into New / Returning / Loyal based on purchase history and compared total spend by segment
+* Built four Power BI dashboards on top of the cleaned data: Executive Summary, Product & Inventory, Seasonal Demand, Location Insights
 
 ## Key Insights
-* Blouse, pants and jewelry, with an average rating of 3.75 and 3900 units sold, outperform the rest of the catalog and should get stock priority.
-* [Specific product/category] shows the lowest turnover ([Z] units over the period) and carries the highest dead-stock risk.
-* Demand for [category] peaks in [season] ([+X% vs. baseline]) — inventory should be built up [N weeks] ahead of that period.
-* [State/region] generates [X% of total revenue] but has a below-average rating ([Y]), suggesting a service or fulfillment issue worth investigating.
+* Clothing is the top category by order volume (1,737 orders), with Blouse and Pants tied as the top items (171 orders each).
+* Jeans had the fewest orders of any item (124) — the weakest performer and the highest dead-stock risk in the catalog.
+* Gloves carry the highest average rating (3.86), ahead of Sandals (3.84) and Boots (3.81) — strong candidates for restocking priority despite moderate order volume.
+* Seasonal leaders differ by season: Sunglasses peak in Winter, Sweaters in Spring, Pants in Summer, and Jackets in Fall — inventory should shift ahead of each transition.
+* Texas has the highest average review rating (3.91), while West Virginia has the lowest (3.58) — revenue is evenly spread across states (no single state exceeds ~2.5% of total), so the gap is a service/experience signal rather than a demand one.
+* Loyal customers (10+ previous purchases, 3,116 of ~3,900 customers) account for $185.5K of the $233K total revenue — by far the largest segment. Their top purchase is Blouse, followed by Jewelry and Shirt.
+
+## Notes & Assumptions
+Revenue figures are in USD.
+Customer segments: New (1 previous purchase), Returning (2–10), Loyal (10+).
+"Dead-stock risk" is approximated by lowest order count per item — the dataset does not include actual inventory or stock-turnover data.
 
 ## Dashboards
 
