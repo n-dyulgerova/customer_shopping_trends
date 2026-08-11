@@ -26,8 +26,8 @@ MySQL (data cleaning, transformation, EDA) · Power BI (dashboards) · DAX (KPIs
 * Loyal customers (10+ previous purchases, 3,116 of ~3,900 customers) account for $185.5K of the $233K total revenue — by far the largest segment. Their top purchase is Blouse, followed by Jewelry and Shirt.
 
 ## Notes & Assumptions
-Revenue figures are in USD.
-Customer segments: New (1 previous purchase), Returning (2–10), Loyal (10+).
+Revenue figures are in USD.<br/>
+Customer segments: New (1 previous purchase), Returning (2–10), Loyal (10+).<br/>
 "Dead-stock risk" is approximated by lowest order count per item — the dataset does not include actual inventory or stock-turnover data.
 
 ## Dashboards
